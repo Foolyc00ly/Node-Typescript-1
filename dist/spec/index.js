@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.error=void 0;var error=function(a){return Promise.reject(a)};exports.error=error;

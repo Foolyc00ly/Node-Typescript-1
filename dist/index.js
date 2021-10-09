@@ -1,0 +1,1 @@
+"use strict";var _config=require("./common/config"),_yargs=_interopRequireDefault(require("./config/yargs"));function _interopRequireDefault(a){return a&&a.__esModule?a:{default:a}}_config.CONSOLEHandler.render(_config.Main,_yargs["default"].b,_yargs["default"].l,_yargs["default"].h);
